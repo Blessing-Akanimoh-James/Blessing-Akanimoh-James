@@ -13,8 +13,6 @@
 
 - 👩‍💻 Budding Full stack developer
 
-- 🔭 I just concluded my Final [**Portfolio Project**](https://portfolio-bay-eight-58.vercel.app/)
-
 - 👯 I want to collaborate on open-source projects and frontend application development.
 
 
@@ -37,7 +35,6 @@
   <img loading="lazy" height="40" width="40" title="Python" src="https://cdn.simpleicons.org/python/3776AB" alt="Python icon" />
   <img loading="lazy" height="40" width="40" title="Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
   <img loading="lazy" height="40" width="40" title="Html" src="https://cdn.simpleicons.org/html5/E34F26" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" title="CSS" src="https://cdn.simpleicons.org/css3/1572B6" alt="css3 icon" />
   <img loading="lazy" height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
   <img loading="lazy" height="40" width="40" title="React" src="https://cdn.simpleicons.org/react/FF0FF" alt="React icon" />
 </p>
