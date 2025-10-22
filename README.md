@@ -40,12 +40,8 @@
   <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" title="slack" height="40"/> </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" title="vagrant" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" title="github" height="40"/> </a>
-  <img loading="lazy" height="40" width="40" title="Vim" src="https://cdn.simpleicons.org/vim/019733" alt="Vim icon" />
   <img loading="lazy" height="40" width="40" title="Trello" src="https://cdn.simpleicons.org/trello/0079BF" alt="Trello icon" />
   <img loading="lazy" height="40" width="40" title="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu icon" />
-  <img loading="lazy" height="40" width="40" title="Nginx" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx icon" />
-  <img loading="lazy" height="40" width="40" title="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL icon" />
-  <img loading="lazy" height="40" width="40" title="Puppet" src="https://cdn.simpleicons.org/puppet/FFAE1A" alt="Puppet icon" /> 
   
  
   
