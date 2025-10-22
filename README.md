@@ -5,13 +5,9 @@
 
  <br>
 
-
-
-<p align="left"> <a href="https://medium.com/@blessingjames1047" target="blank">👨‍💻</a> </p>
-
 **About me**
 
-- 👩‍💻 Budding Full stack developer
+- 👩‍💻 Budding Frontend developer
 
 - 👯 I want to collaborate on open-source projects and frontend application development.
 
@@ -31,8 +27,6 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" title="C" height="40"/>
-  <img loading="lazy" height="40" width="40" title="Python" src="https://cdn.simpleicons.org/python/3776AB" alt="Python icon" />
   <img loading="lazy" height="40" width="40" title="Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
   <img loading="lazy" height="40" width="40" title="Html" src="https://cdn.simpleicons.org/html5/E34F26" alt="html5 icon" />
   <img loading="lazy" height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
@@ -61,19 +55,19 @@
 
 <h3 align=left>My GitHub Stats</h3>
  <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahsbaby&theme=algolia" alt="jahsbaby" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blessing-akanimoh-james&theme=algolia" alt="jahsbaby" />
 </p>
 
 <p align="left">
-   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahsbaby&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blessing-akanimoh-james&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahsbaby&theme=algolia&show_icons=true&count_private=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=blessing-akanimoh-james&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=jahsbaby&repo=jahsbaby&theme=algolia)]()
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=jahsbaby&repo=blessing-akanimoh-james&theme=algolia)]()
 
-Leave a ⭐ from [here](https://github.com/jahsbaby) if you like 😁
+Leave a ⭐ from [here](https://github.com/blessing-akanimoh-james) if you like 😁
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesongmartins&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph">
