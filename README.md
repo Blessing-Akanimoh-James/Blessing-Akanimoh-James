@@ -7,7 +7,7 @@
 
 **About me**
 
-- 👩‍💻 Budding Frontend developer
+- 👩‍💻 Frontend developer
 
 - 👯 I want to collaborate on open-source projects and frontend application development.
 
@@ -66,7 +66,7 @@
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=jahsbaby&repo=blessing-akanimoh-james&theme=algolia)]()
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=blessing-akanimoh-james&repo=blessing-akanimoh-james&theme=algolia)]()
 
 Leave a ⭐ from [here](https://github.com/blessing-akanimoh-james) if you like 😁
 
